@@ -20,3 +20,4 @@
 - Filtern
 - Aufzählen
 - Schleifen
+- PipeLine2
