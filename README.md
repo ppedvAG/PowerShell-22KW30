@@ -21,3 +21,6 @@
 - Aufzählen
 - Schleifen
 - PipeLine2
+- Variablen 2
+- Skriptsicherheit
+- Skripting Einstieg
